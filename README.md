@@ -1,28 +1,13 @@
 
-# appjam
-### Table of contents
-- [System requirements](#system-requirements)
-- [Figma design guidelines for better UI accuracy](#figma-design-guideline-for-better-accuracy)
-- [Check the UI of the entire app](#app-navigations)
-- [Application structure](#project-structure)
-- [How to format your code?](#how-you-can-do-code-formatting)
-- [How you can improve code readability?](#how-you-can-improve-the-readability-of-code)
-- [Libraries and tools used](#libraries-and-tools-used)
-- [Support](#support)
-
+# OUA Flutter AppJam - TEST
 ### System requirements
 
 Dart SDK Version 2.18.0 or greater.
 Flutter SDK Version 3.3.0 or greater.
 
-### Figma design guidelines for better UI accuracy
-
-Read our guidelines to increase the accuracy of design-to-code conversion by optimizing Figma designs.
-https://docs.dhiwise.com/docs/Designguidelines/intro
-
 ### Check the UI of the entire app
 
-Check the UI of all the app screens from a single place by setting up the 'initialRoute'  to AppNavigation in the AppRoutes.dart file.
+Check the UI of all the app screens from a single place by setting up the 'initialRoute' to AppNavigation in the AppRoutes.dart file.
 
 ### Application structure
 
@@ -62,7 +47,3 @@ Resolve the errors and warnings that are shown in the application.
   https://bloclibrary.dev
 - cached_network_image - For storing internet image into cache
   https://pub.dev/packages/cached_network_image
-
-### Support
-
-If you have any problems or questions, go to our Discord channel, where we will help you as quickly as possible: https://discord.com/invite/rFMnCG5MZ7
